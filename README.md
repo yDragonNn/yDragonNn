@@ -1,7 +1,7 @@
 ## Oi, eu sou o Caio Augusto, estudante de Engenharia da Computação pela UNINTER!
 
 
-[![CaioW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydragonnn&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/ydragonnn/github-readme-stats)
+[![CaioW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ydragonnn&theme=dracula&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/ydragonnn/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="caiow-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
